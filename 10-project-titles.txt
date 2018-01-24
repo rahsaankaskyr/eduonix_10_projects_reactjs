@@ -4,8 +4,8 @@
 03 - Simple Survey
 04 - BMI Calculator
 05 - DummyText Generator
-06 - 
-07 -
-08 - 
-09 - 
-10 - 
+06 - Flux Contact Manager
+07 - D3 Bar Chart
+08 - ReactAuth App
+09 - ReactTasks with MongoDB
+10 - BookFinder App
