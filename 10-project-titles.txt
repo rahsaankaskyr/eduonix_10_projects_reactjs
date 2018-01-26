@@ -4,7 +4,7 @@ Eduonix	- projects in ReactJS - course
 01 - Twitter Bootstrap Interface 
 02 - Resume Viewer
 03 - Simple Survey
-04 - BMI Calculator
+04 - BMI (body mass index) Calculator
 05 - DummyText Generator
 06 - Flux Contact Manager
 07 - D3 Bar Chart
@@ -20,3 +20,18 @@ Eduonix	- projects in ReactJS - course
 	- Virtual DOM
 	- Render on Client/Server
 	- Independent from other parts
+
+> used technologies & API's in projects
+	- HTML/CSS
+	- JavaScript
+	- ReactJS
+	- jQuery
+	- twitter bootstrap
+	- MUICSS	- CSS framework
+	- Firebase 	- no SQL database	
+	- D3	- javaScript lib for charts
+	- Flux architecture	- store and state manager
+	- Autho	- authorication  service
+	- Google Books API
+	- MongoDB / mLab	- remote service
+	- Axios / Superagent	- HTTP modules - use with NPM
