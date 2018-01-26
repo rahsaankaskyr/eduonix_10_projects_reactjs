@@ -1,4 +1,6 @@
 
+Eduonix	- projects in ReactJS - course
+
 01 - Twitter Bootstrap Interface 
 02 - Resume Viewer
 03 - Simple Survey
@@ -9,3 +11,12 @@
 08 - ReactAuth App
 09 - ReactTasks with MongoDB
 10 - BookFinder App
+
+> ReactJS
+	- javaScript library - create dynamic user interfaces
+	- the "V" in MVC - Model View Controller
+	- Component Based Encapsulation
+	- State & Properties
+	- Virtual DOM
+	- Render on Client/Server
+	- Independent from other parts
